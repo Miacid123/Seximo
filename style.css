@@ -352,3 +352,14 @@ a:hover{
 color: pink;
 text-decoration: none;
 }
+
+.Desglose{
+  background-color: pink;
+  color: lightcoral;
+  border: solid 5px lightcoral;
+  font-family: kalam, cursive;
+  font-size: 30px;
+  position: relative;top: -600px;
+  text-align: justify;
+  padding: 20px;
+}
